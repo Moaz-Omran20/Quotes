@@ -1,6 +1,6 @@
 # quotes_api
 
-A new Flutter project.
+A mobile app that displays quotes can be a great source of inspiration, motivation, and reflection for users.
 
 ## Getting Started
 
